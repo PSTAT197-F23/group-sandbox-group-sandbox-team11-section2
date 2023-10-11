@@ -1,0 +1,21 @@
+---
+title: "Dulaan-about"
+output: html_document
+date: "2023-10-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+<<<<<<< Updated upstream
+I am allergic to avocado. :)
+=======
+I am allergic to avocado. :)
+
+##Question for Dylan 
+
+What is your elo in battlegrounds?
+>>>>>>> Stashed changes
