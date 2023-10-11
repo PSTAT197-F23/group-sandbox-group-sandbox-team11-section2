@@ -2,4 +2,4 @@
 
 I was born in Michigan
 
-sup?
+hey whats up?
