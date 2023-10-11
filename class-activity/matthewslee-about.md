@@ -1,3 +1,3 @@
 # About Me
 
-I was born in Michigan
+My name is Matthew and I was born in Michigan
