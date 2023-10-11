@@ -1,3 +1,5 @@
 # About Me
 
-My name is Matthew and I was born in Michigan
+I was born in Michigan
+
+hey whats up?
