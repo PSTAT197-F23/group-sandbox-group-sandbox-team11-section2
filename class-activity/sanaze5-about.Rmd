@@ -8,3 +8,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 hey my name is Sanaz and I am 21 
+
+She is sitting on the right of Matthew
