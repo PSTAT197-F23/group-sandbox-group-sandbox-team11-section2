@@ -1,0 +1,14 @@
+---
+title: "AronMa8-about.md"
+author: "Aron Ma"
+date: "2023-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+I like steak and eggs
