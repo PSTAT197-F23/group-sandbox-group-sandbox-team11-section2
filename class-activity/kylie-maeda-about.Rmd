@@ -1,0 +1,13 @@
+---
+title: "kylie-maeda-about"
+author: "Kylie Maeda"
+date: "2023-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me!
+My fun fact is that I am learning github
